@@ -41,12 +41,13 @@
     (b). NCAT
     (c). Modpoll
     (d). Curl
+    (e). VMWare
+    (f). SEQ 
 10. Cloud Basics
-
 11. Testing & Documentation:
     (a). Unit Testing.
     (b). A/B Testing. 
     (c). Maininting Documenation.
     (d). Coding Standards 
-
+12. Projects
     
