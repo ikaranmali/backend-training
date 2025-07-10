@@ -12,7 +12,7 @@
     (c). Relational Database: SQL
 4. Networking:
     (a). IP Concepts 
-    (b). Device Communications
+    (b). Device Communications: Ping, SSH, RDP, Samba Share.
 5. App Deployments
     (a). As a service on linux and windows.
     (b). As a scheduled job on linux and windows. 
@@ -28,6 +28,8 @@
     (f). SMTP
     (g). Modbus
     (h). SMB
+    (I). SCP
+    (J). SFTP
 7. Observability/Monitoring: 
     (a). Integration with Database.
     (b). Creating panels & dashboard.
